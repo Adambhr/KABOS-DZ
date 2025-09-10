@@ -272,4 +272,5 @@ class create:
         print (f'{A}[{R}={A}] {G}TOTAL CP ID {R}: '+str(len(cp)))
         linex()
 #▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭[ EXIT ]▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭#        
+
 menu()
