@@ -18,15 +18,15 @@ from datetime import datetime
 import os, sys
 
 # Tumhara WhatsApp channel link
-channel_link = "https://whatsapp.com/channel/BLEOaiGvSPgAXc5gNKnlWw?mode=ems_copy_c"
+channel_link = "https://whatsapp.com/channel/BLEOaiGvSPgAXc5gNKnlWw"
 
 # Valid keys (channel par available hogi)
-approved_keys = ["KABOS-DZXXX-XXX43"]
+approved_keys = ["KABOS-DZXXXXXXXX43"]
 
 def first_step():
     os.system("clear")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print("        🔒 Closed kay👇🏻 🔒")
+    print("        🔒 الاداة مغلقة 🔒")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
     print("\033[1;32m JOIN OUR WHATSAPP CHANNEL ✅ \033[0m\n")
     print("\033[1;32m KEY APKO CHANEL SA MILY GI ✅ \033[0m\n")
@@ -52,7 +52,7 @@ first_step()
 # Phir key check hoga
 check_key()
 
-# Tool ka main code KABOS likho
+# Tool ka main code yahan likho
 print(">>> Tool Successfully Unlocked <<<")
 
 
@@ -80,7 +80,7 @@ os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install ch
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://chat.whatsapp.com/BLEOaiGvSPgAXc5gNKnlWw?mode=ems_wa_t')
+os.system('xdg-open https://chat.whatsapp.com/BLEOaiGvSPgAXc5gNKnlWw?mode=ems_copy_t')
 os.system('xdg-open https://www.facebook.com/kbsxx.43')
 
 
