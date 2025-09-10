@@ -18,10 +18,10 @@ from datetime import datetime
 import os, sys
 
 # Tumhara WhatsApp channel link
-channel_link = "https://whatsapp.com/channel/BLEOaiGvSPgAXc5gNKnlWw"
+channel_link = "https://chat.whatsapp.com/BLEOaiGvSPgAXc5gNKnlWw?mode=ems_copy_t"
 
 # Valid keys (channel par available hogi)
-approved_keys = ["KABOS-DZXXXXXXXX43"]
+approved_keys = ["KABOS-DZXXX-XXX43"]
 
 def first_step():
     os.system("clear")
