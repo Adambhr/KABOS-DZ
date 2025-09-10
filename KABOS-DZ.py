@@ -18,7 +18,7 @@ from datetime import datetime
 import os, sys
 
 # Tumhara WhatsApp channel link
-channel_link = "https://whatsapp.com/channel/BLEOaiGvSPgAXc5gNKnlWw"
+channel_link = "https://whatsapp.com/channel/BLEOaiGvSPgAXc5gNKnlWw?mode=ems_copy_c"
 
 # Valid keys (channel par available hogi)
 approved_keys = ["KABOS-DZXXX-XXX43"]
@@ -26,7 +26,7 @@ approved_keys = ["KABOS-DZXXX-XXX43"]
 def first_step():
     os.system("clear")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
-    print("        🔒 الاداة مغلقة 🔒")
+    print("        🔒 Closed kay👇🏻 🔒")
     print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n")
     print("\033[1;32m JOIN OUR WHATSAPP CHANNEL ✅ \033[0m\n")
     print("\033[1;32m KEY APKO CHANEL SA MILY GI ✅ \033[0m\n")
@@ -52,7 +52,7 @@ first_step()
 # Phir key check hoga
 check_key()
 
-# Tool ka main code yahan likho
+# Tool ka main code KABOS likho
 print(">>> Tool Successfully Unlocked <<<")
 
 
