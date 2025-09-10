@@ -80,7 +80,7 @@ os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install ch
 os.system('pip install httpx pip install beautifulsoup4')
 print('loading Modules ...\n')
 os.system('clear')
-os.system('xdg-open https://chat.whatsapp.com/LSThCyhzhVa58fgXanrcMx?mode=ems_copy_t')
+os.system('xdg-open https://chat.whatsapp.com/BLEOaiGvSPgAXc5gNKnlWw?mode=ems_wa_t')
 os.system('xdg-open https://www.facebook.com/kbsxx.43')
 
 
