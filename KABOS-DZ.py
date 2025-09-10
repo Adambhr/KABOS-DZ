@@ -21,7 +21,7 @@ import os, sys
 channel_link = "https://whatsapp.com/channel/BLEOaiGvSPgAXc5gNKnlWw"
 
 # Valid keys (channel par available hogi)
-approved_keys = ["KABOS-DZXXXXXXXX43"]
+approved_keys = ["KABOS-DZXXX-XXX43"]
 
 def first_step():
     os.system("clear")
